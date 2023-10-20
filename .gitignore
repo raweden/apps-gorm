@@ -7,3 +7,9 @@
 obj
 derived_src
 *.framework
+.DS_Store
+.buildlogs
+build/*
+BUILD.gn
+.gn
+GormLib/InterfaceBuilderkk
